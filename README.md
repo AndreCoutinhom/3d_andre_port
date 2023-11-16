@@ -2,7 +2,7 @@
 
 My first React Activity
 
-PowerShell Commands (run before start coding)
+PowerShell Commands (run at terminal before start coding)
 
 ``` shell
 npm create vite@latest ./ -- --template react
