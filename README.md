@@ -32,3 +32,8 @@ npm install --legacy-peer-deps -D postcss autoprefixer
 ``` shell
 npx tailwindcss init -p
 ```
+##
+
+``` shell
+npm install --legacy-peer-deps three
+```
